@@ -1,0 +1,93 @@
+#monkeybite {
+	font-size: 45px !important;
+}
+.navbar:link, .navbar:visited {
+
+	bottom: 0;
+	font-family: "Impact";
+	font-size: 30px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	color: white;
+	text-decoration: none;
+	float: left;
+	padding: 20px 10px 20px 10px;
+	display: block;
+
+}
+.navbar:hover, #caption:hover { 
+	color: #30415D;
+	text-decoration: none;
+
+}
+
+
+
+
+
+.icons {
+	font-size: 80px;
+	color: white;
+	float: right;
+	padding: 10px 20px 10px 20px;
+	display: block;
+	text-decoration: none;
+
+}
+
+
+.flip {
+    width: 400px;
+    height: 400px;
+
+	display: none;
+	position: absolute;
+	top: 50%;
+	left: 10%;  
+	max-width: 40%;
+	max-height: 70%;
+	margin-top: 100px; /* Half the height */
+	margin-left: -40px; /* Half the height */
+
+	cursor: hand;
+	cursor: pointer;
+}
+.flip img {
+    width: 400px;
+    height: auto;
+    box-shadow: 10px 10px 20px black;
+	border: 3px solid black;
+
+}
+.flip .back {
+    background: #2184cd;
+    color: #fff;
+    text-align: center;
+    box-shadow: 10px 10px 20px black;
+	border: 2px solid black;
+}
+
+#caption {
+	font-family: "Impact";
+	font-size: 40px; 
+	color: white;
+	padding-top: 3px;
+	cursor: hand;
+	cursor: pointer;
+}
+
+
+body {
+	background-image: url("ccc.jpg") !important;
+	background-repeat: no-repeat;
+
+}
+
+.header {
+
+	overflow: hidden;
+	background-color: #031424;
+
+}
+

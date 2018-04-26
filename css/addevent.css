@@ -1,0 +1,29 @@
+.addevent{
+
+	width: 70%;
+	background-color: #031424;
+	overflow: hidden;
+	position: absolute;
+	top: 20%;
+	right: 15%;
+	border-color: white;
+	border-width: 3px;
+	border-style: solid;
+}
+
+label {
+	font-family: "Impact";
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	color: white;
+	text-align: left;
+
+}
+
+input {
+	width: 60%;
+	float: right;
+  	
+}
